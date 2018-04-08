@@ -1,0 +1,16 @@
+{
+  "name": "vue-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  },
+  "scripts": {
+    "vue": "vue init webpack vue-project"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
